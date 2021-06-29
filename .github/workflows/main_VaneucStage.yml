@@ -56,5 +56,5 @@
           with:
             app-name: 'VaneucStage'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_daa0b14a5c33417895a711172c7457e8 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_add690299e8940d2b7805713973e4b67 }}
             package: .
