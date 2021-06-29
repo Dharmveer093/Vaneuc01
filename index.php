@@ -5,8 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "hi dharam i am uinsng  vances server 
-?>
+echo "hi dharam i am uinsng ?>
 
 </body>
 </html>
